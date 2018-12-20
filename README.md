@@ -8,7 +8,7 @@
 
 ```shell
 cd HydrologySpider
-./run.sh
+./task.sh
 ```
 
 每天15:30进行采集

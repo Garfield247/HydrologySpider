@@ -7,7 +7,7 @@
 ## RUN
 
 ```shell
-cd AQISpider
+cd HydrologySpider
 ./run.sh
 ```
 
